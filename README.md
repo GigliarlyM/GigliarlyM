@@ -16,7 +16,7 @@
   <img align="center" alt="G-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aling="center" alt="G-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="G-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="G-Java" height="30" width="40" src="">
+  <img align="center" alt="G-Java" height="30" width="40" src="https://github.com/GigliarlyM/GigliarlyM/blob/main/DevIcons/java-original-wordmark.svg">
 </div>
   
 ##
