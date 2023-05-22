@@ -1,7 +1,7 @@
 ## Olá! Sou o Gigliárly Marcelino
 
-- 🔭 Hoje sou estudante do ensino médio, integrado o curso de Técnico em Informática
-- 🌱 Estudando Desenvolvimento Android com Java
+- 🔭 Terminei meu ensino médio integrado ao técnico, em Técnico em Informática
+- 🌱 Estudando Desenvolvimento Android com React Native
 - 📫 Contate-me no email: tentesiongiga@gmail.com
 - 😄 Pronouns: ele/dele
 
