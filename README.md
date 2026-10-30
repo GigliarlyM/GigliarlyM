@@ -2,7 +2,6 @@
 
 - 🔭 Terminei meu ensino médio integrado ao técnico, em Técnico em Informática
 - 🔭 Estou estudando Sistema de Informacao
-- 🤔 E estou bastante interessado em `desenvolvimento back end (servidor)`
 - 😄 Pronouns: ele/dele
 
 <hr>
